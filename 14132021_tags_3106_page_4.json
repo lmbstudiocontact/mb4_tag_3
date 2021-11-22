@@ -1,0 +1,370 @@
+[
+  {
+    "tag": "night",
+    "total": 20,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_night_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "bigblackfoot",
+    "total": 25,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_bigblackfoot_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "futebol",
+    "total": 64,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_futebol_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_futebol_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "clock",
+    "total": 25,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_clock_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "floors",
+    "total": 309,
+    "size_max_detail_page": 7,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_floors_index_6.json"
+      }
+    ]
+  },
+  {
+    "tag": "day",
+    "total": 123,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_day_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_day_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_day_index_2.json"
+      }
+    ]
+  },
+  {
+    "tag": "football",
+    "total": 60,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_football_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_football_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "minimalista",
+    "total": 11,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_minimalista_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "amoled",
+    "total": 11,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_amoled_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "starwars",
+    "total": 34,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_starwars_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "cute",
+    "total": 30,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_cute_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "esports",
+    "total": 28,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_esports_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "ru",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_ru_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "dark",
+    "total": 54,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_dark_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_dark_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "metal",
+    "total": 30,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_metal_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "days",
+    "total": 33,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_days_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "weekday",
+    "total": 96,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_weekday_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_weekday_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "manga",
+    "total": 19,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_manga_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "girl",
+    "total": 86,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_girl_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_girl_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "2021",
+    "total": 11,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_2021_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "minimalistic",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_minimalistic_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "love",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_love_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "passos",
+    "total": 43,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_passos_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "brasil",
+    "total": 86,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_brasil_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_brasil_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "design",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_design_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "miband4",
+    "total": 56,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_miband4_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_miband4_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "space",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_space_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "nike",
+    "total": 48,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_nike_index_0.json"
+      }
+    ]
+  }
+]

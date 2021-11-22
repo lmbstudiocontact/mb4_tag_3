@@ -1,0 +1,378 @@
+[
+  {
+    "tag": "fighter",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_fighter_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "genesis",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_genesis_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "color",
+    "total": 19,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_color_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "car",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_car_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "flower",
+    "total": 21,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_flower_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "pl",
+    "total": 19,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_pl_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "mengo",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_mengo_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "seconds",
+    "total": 661,
+    "size_max_detail_page": 14,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_9.json"
+      },
+      {
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_12.json"
+      },
+      {
+        "index_page": 13,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_seconds_index_13.json"
+      }
+    ]
+  },
+  {
+    "tag": "mifit",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_mifit_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "minimal",
+    "total": 86,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_minimal_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_minimal_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "gameboy",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_gameboy_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "miband",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_miband_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "dragon",
+    "total": 20,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_dragon_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "clock",
+    "total": 25,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_clock_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "colors",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_colors_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "time",
+    "total": 148,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_time_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_time_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_time_index_2.json"
+      }
+    ]
+  },
+  {
+    "tag": "futebol",
+    "total": 64,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_futebol_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_futebol_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "love",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_love_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "humor",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_humor_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "film",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_film_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "soccer",
+    "total": 29,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_soccer_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "jogoonlinenotempausa",
+    "total": 27,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_jogoonlinenotempausa_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "rainbow",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_rainbow_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "super",
+    "total": 11,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_super_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "watch",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_1/raw/main/14132021_dtt_watch_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "czech",
+    "total": 28,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_czech_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "miband5",
+    "total": 21,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_miband5_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "nintendo",
+    "total": 42,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_tag_0/raw/main/14132021_dtt_nintendo_index_0.json"
+      }
+    ]
+  }
+]
